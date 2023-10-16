@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Learning Everyday:
+<p dir = "auto">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/02de09450e2d4f79b6124822fef51ed192f350bbd731ba75d16ada6f59f12d66/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5675652e6a732d3335343935453f7374796c653d666c61742d737175617265266c6f676f3d7675652e6a73266c6f676f436f6c6f723d344643303844"><img src="https://camo.githubusercontent.com/02de09450e2d4f79b6124822fef51ed192f350bbd731ba75d16ada6f59f12d66/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5675652e6a732d3335343935453f7374796c653d666c61742d737175617265266c6f676f3d7675652e6a73266c6f676f436f6c6f723d344643303844" alt="Vue.js" data-canonical-src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&amp;logo=vue.js&amp;logoColor=4FC08D" style="max-width: 100%;"></a>
+</p>
+
+
 📫 How to reach me:
 <p dir="auto">
 <a href="https://www.linkedin.com/in/zabdieljr/" rel="nofollow">
