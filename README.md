@@ -1,4 +1,5 @@
 ### Hello Everyone! Welcome!! 👋
+A frontend and backend developer is like a magician who creates the digital world you interact with every day. The frontend developer crafts the beautiful, user-friendly interface you see on websites and apps, while the backend developer works behind the scenes, ensuring everything runs smoothly and securely. Together, they make the internet a magical place.
 
 <!--
 **Zabdieljr/Zabdieljr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
